@@ -1,2 +1,3 @@
-# guides
-Various guides on how to interact with the Bidao Smart Chain
+# Bidao Smart Chain Guides
+
+This Repository contains various guides on how to interact with the Bidao Smart Chain.
