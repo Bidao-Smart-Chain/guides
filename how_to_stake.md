@@ -260,12 +260,28 @@ To ensure that the Teku service starts automatically on reboot, enable it by run
 `sudo systemctl enable teku`  
   
 ## 5. Fund the Validator Keys  
-For this visit [https://launchpad-ascend.bidaochain.com](https://launchpad-ascend.bidaochain.com) and upload you in step 1 created deposit file (it should look like this `deposit_data-[timestamp].json`) and click continue.  
+For this visit [https://launchpad-ascend.bidaochain.com](https://launchpad-ascend.bidaochain.com) and upload your in step 1 created deposit file (it should look like this `deposit_data-[timestamp].json`) and click continue.
+
+<div align="center">
+<img src="images/screenshot1.png" width=80%>
+</div>
   
-To connect your wallet, select MetaMask or another supported wallet, log in, and choose the account that holds your BISC. Then, click "Continue" to proceed.  
+To connect your wallet, select MetaMask or another supported wallet, log in, and choose the account that holds your BISC. Then, click "Continue" to proceed.
   
-After this, a summary will be displayed, showing the number of validators and the total amount of BISC required. If the information is correct, check the boxes to agree to the terms and conditions, and then click "Continue" to proceed.  
+<div align="center">
+<img src="images/screenshot2.png" width=80%>
+</div>
   
-When you're ready to deposit your BISC, click on "Initiate All Transactions" or click on each transaction individually.  
+After this, a summary will be displayed, showing the number of validators and the total amount of BISC required. If the information is correct proceed to the next page and check the boxes to agree to the terms and conditions, and then again click "Continue" to proceed.
+  
+<div align="center">
+<img src="images/screenshot3.png" width=80%>
+</div>
+  
+When you're ready to deposit your BISC, click on "Send All ... Deposits" or click on each transaction individually.
+  
+<div align="center">
+<img src="images/screenshot4.png" width=80%>
+</div>
   
 Congratulations, you have now successfully become an Bidao Staker!
